@@ -1,7 +1,3 @@
-# Ignore videos folder
-/videos/input
-/videos/output
-
 # Ignore heavy files
 /model_data/models/mars-small128.pb
 /model_data/models/model.pth
