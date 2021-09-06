@@ -1,8 +1,11 @@
 # Sistema de detección y seguimiento de personas
 
-En este repositorio se encuentra el código desarrollado en el proyecto final de máster: Sistema de detección y seguimiento de personas, del máster Big Data y Data Science de la Universidad Internacional de Valencia.
+En este repositorio se encuentra el código desarrollado en el proyecto final de máster: **Sistema de detección y seguimiento de personas**, del máster _Big Data y Data Science_ de la _Universidad Internacional de Valencia_.
 
 ## Requisitos
+
+Recomendable crearse un entorno virtual de Python3.
+
 ```
 pip install -r requirements.txt
 ```
