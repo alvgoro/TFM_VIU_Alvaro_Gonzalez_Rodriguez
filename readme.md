@@ -4,7 +4,7 @@ En este repositorio se encuentra el código desarrollado en el proyecto final de
 
 ## Requisitos
 ```
-
+pip install -r requirements.txt
 ```
 En este repositorio falta por añadir dos archivos de configuración. Estos son *mars-small128.pb* y *yolov4.h5*. Pueden ser adquiridos en los siguientes enlaces. Una vez descargados, añadirlos a la carpeta /model_data/models/
 
