@@ -34,6 +34,11 @@ python detections_from_serialized.py --input .\videos\input\{video_a_su_eleccion
 
 Este comando muestra el vídeo de ```--input``` con el seguimiento de las personas que aparecían en el vídeo introducido en ```--features```. 
 
+```
+python app_tracking_with_tail.py --input .\videos\input\4P-C2.mp4
+```
+
+Este comando devuelve un vídeo con el seguimiento de las personas y el rastro que han seguido desde el inicio del vídeo.
 
 ## Reconocimientos
 Esta aplicación ha sido creada gracias al increíble trabajo anterior de los siguientes repositorios:
